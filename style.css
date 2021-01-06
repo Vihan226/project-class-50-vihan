@@ -1,0 +1,70 @@
+.o1{
+
+display: flex;
+
+justify-content: center;
+
+border-radius: 100px;
+
+}
+.o2{
+
+display: flex;
+
+justify-content: last baseline;
+
+}
+.grip{
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+  justify-content: space-evenly;
+
+  
+
+}
+.o3{
+
+    display: flex;
+  
+    
+    justify-content:flex-start;
+
+   
+    
+    }
+    .o4{
+display: flex;
+      background-color: blue;
+        justify-content:center;
+        
+        }
+        .o5{
+
+     
+            display: flex;
+            justify-content: last baseline;
+            
+            }
+            .o6{
+display: flex;
+                background-color: red;
+                justify-content:first baseline;
+                
+                }
+                .o7{
+
+                    background-color: red;
+                    justify-content: last baseline;
+                    
+                    }
+                    .header{
+                    background-color: blue;
+
+                    display: flex;
+                
+                    justify-content:flex-end;
+
+                    }
